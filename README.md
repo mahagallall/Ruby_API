@@ -1,2 +1,2 @@
-![alt text](users.png)
+![alt text](usersm.png)
 ![alt text](posts.png)
